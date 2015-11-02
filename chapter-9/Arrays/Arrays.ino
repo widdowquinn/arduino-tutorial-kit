@@ -37,5 +37,5 @@ void loop() {
   Serial.print(Array_2[2]);
   Serial.println();  
   
-  while(1);
+  while(1); // Program only gets executed once
 }
